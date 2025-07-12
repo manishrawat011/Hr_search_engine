@@ -67,7 +67,7 @@ Local Setup and Run
 
 **1. Clone the repository:**
 
-git clone <your-github-repo-link>
+git clone <https://github.com/manishrawat011/Hr_search_engine.git>
 cd hr_search_service
 
 **Install dependencies:**
